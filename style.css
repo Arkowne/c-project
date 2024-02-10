@@ -38,6 +38,8 @@ nav ul li a {
     background-size: cover;
     background-position: center;
     height: 300px;
+    align-items: center; /* Centre le contenu verticalement */
+    text-align: center; /* Centre le texte horizontalement */
 }
 
 .content {
